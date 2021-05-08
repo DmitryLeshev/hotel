@@ -22,15 +22,6 @@ const useStyles = makeStyles((theme: ITheme) =>
       display: "flex",
       flexDirection: "column",
       flexGrow: 1,
-      alignItems: "center",
-      justifyContent: "center",
-      padding: theme.spacing(3),
-    },
-    wrapper: {
-      display: "flex",
-      flexDirection: "column",
-      padding: theme.spacing(3),
-      minWidth: 600,
     },
   })
 );
